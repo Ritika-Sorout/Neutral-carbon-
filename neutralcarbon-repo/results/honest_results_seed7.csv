@@ -1,7 +1,0 @@
-,accuracy,precision,recall,f1,tp,fp,fn,tn,note
-IsolationForest,0.8696,0.3,0.2143,0.25,6.0,14.0,22.0,234.0,
-OneClassSVM,0.8587,0.3333,0.3929,0.3607,11.0,22.0,17.0,226.0,
-IQR,0.7246,0.25,0.8571,0.3871,24.0,72.0,4.0,176.0,
-Autoencoder_MLP,0.8732,0.434,0.8214,0.5679,23.0,30.0,5.0,218.0,
-QML_simulated,0.8804,0.2727,0.1071,0.1538,3,8,25,240,"numpy simulation, fixed untrained theta, no quantum advantage claimed"
-Ensemble_majority,0.8442,0.377,0.8214,0.5169,23.0,38.0,5.0,210.0,
